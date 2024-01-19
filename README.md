@@ -1,1 +1,1 @@
-"# typsFer" 
+Código de Typescript
