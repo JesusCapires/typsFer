@@ -1,0 +1,16 @@
+Instalar node js
+
+Instalar CLI angular
+	npm install -g @angular/cli
+
+Comando para usar CLI en terminal de visual studio
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+Instalar tslib para NgModule
+	npm install tslib
+
+Crear proyecto angular de forma normal, es decir con modulos
+	ng new angularinit --stanalone false
+
+Crear un componente
+	ng generate component contador
