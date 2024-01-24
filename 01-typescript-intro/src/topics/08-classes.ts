@@ -9,6 +9,7 @@ export class Person{
     }
 }
 
+// const ironman = new Person();
 const ironman = new Person();
 
-console.log(ironman)
+console.log(ironman.address)
