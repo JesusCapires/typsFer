@@ -11,4 +11,4 @@ export class Person{
 
 const ironman = new Person();
 
-console.log(ironman.address)
+console.log(ironman)
