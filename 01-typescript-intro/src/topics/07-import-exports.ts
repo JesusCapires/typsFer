@@ -9,7 +9,7 @@ const shoppingCart: Product[] = [
     },
     {
         description: 'Ipad',
-        price: 2505822344
+        price: 50
     }];
 
     // const [total, tax] = taxCaclulation ({});

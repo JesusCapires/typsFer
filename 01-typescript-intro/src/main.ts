@@ -9,6 +9,7 @@ import './topics/04-homework-types.ts'
 import './topics/05-basic-destructuring.ts'
 import './topics/06-function-function-destructuring.ts'
 import './topics/07-import-exports.ts'
+import './topics/08-classes.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
@@ -27,6 +28,6 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     </p>
   </div>
 `
-console.log("Prueba consola");
+// console.log("Prueba consola");
 setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)
  
